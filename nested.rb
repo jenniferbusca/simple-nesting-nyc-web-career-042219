@@ -83,10 +83,7 @@ def adding_matz
         }
      }
 
-programmer_hash[:yukihiro_matsumoto] = {
-          :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]
-        }    
+programmer_hash[:yukihiro_matsumoto] =     
 end
 
 def changing_alan
